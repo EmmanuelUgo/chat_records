@@ -6,7 +6,7 @@ rows: 1751
 cols: 3
 columns:
   time: POSIXct
-  author: character
+  author: factor
   url: character
 filenames:
   data.csv: data.csv
