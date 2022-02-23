@@ -1,0 +1,13 @@
+path:
+- data.csv
+- data.rds
+type: table
+rows: 1185
+cols: 3
+columns:
+  time: POSIXct
+  author: factor
+  url: character
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds
