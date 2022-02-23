@@ -1,0 +1,6 @@
+- path: NAtoNA
+  name: NAtoNA
+  type: table
+  description: ~
+  rows: 0
+  cols: 3
