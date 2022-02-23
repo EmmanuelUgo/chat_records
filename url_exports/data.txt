@@ -1,0 +1,6 @@
+- path: url_exports
+  name: url_exports
+  type: table
+  description: ~
+  rows: 1176
+  cols: 3
