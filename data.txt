@@ -16,3 +16,9 @@
   description: ~
   rows: 1751
   cols: 3
+- path: 2022-02-17to2022-02-22
+  name: 2022-02-17to2022-02-22
+  type: table
+  description: ~
+  rows: 15
+  cols: 3
